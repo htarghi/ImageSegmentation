@@ -7,7 +7,7 @@ This package contains utilities for performing image segmentation using the wate
 You can install this package via pip:
 
 
-pip install https://github.com/htarghi/ImageSegmentation.git
+pip install git+https://github.com/htarghi/ImageSegmentation.git
 
 ## Requirements
 
