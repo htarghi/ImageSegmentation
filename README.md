@@ -28,7 +28,7 @@ segmenter.write_properties_to_csv(properties_df, 'segment_properties.csv')
 
 # Contributors
 
-Hajar Moradmand (moradmand90@gmail.com)
+Hajar Moradmand ( @htarghi)
 
 # Licence
 This project is licensed under the MIT License - see the LICENSE file for details.
